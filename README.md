@@ -9,3 +9,6 @@ Task(for Intro to iOS Development course):
 Added (Challenge) Features: 
 - Magical Arena and Triangle View Arena
 - One View Controller file which handles all the arenas
+
+To view the project:
+- Download the zip file and open up xcodeproject file and run.
